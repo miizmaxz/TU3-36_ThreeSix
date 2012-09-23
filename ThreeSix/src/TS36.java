@@ -6,7 +6,7 @@
 import javax.microedition.midlet.*;
 
 /**
- * @author M300
+ * @author M300 ------ 
  */
 public class TS36 extends MIDlet {
 
